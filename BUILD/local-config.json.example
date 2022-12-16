@@ -1,0 +1,5 @@
+{
+	"pioCmd": "/Users/$USER/.platformio/penv/bin/platformio",
+	"remoteUser": "$USER",
+	"remoteServer": "server-name"
+}

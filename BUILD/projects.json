@@ -1,0 +1,16 @@
+{
+	"displays-vendors": {
+		"nextion": {
+			"projects":
+			{
+				"rfid-access-tester": {
+					"title": "rfid-access-tester" ,
+					"displays": [
+						"NX3224T024" ,
+						"NX8048T070"
+					]
+				}
+			}
+		}
+	}
+}
